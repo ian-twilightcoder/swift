@@ -25,7 +25,7 @@
         "swift-asn1": {
             "remote": { "id": "apple/swift-asn1" } },
         "swift-driver": {
-            "remote": { "id": "swiftlang/swift-driver" } },
+            "remote": { "id": "ian-twilightcoder/swift-driver" } },
         "swift-log": {
             "remote": { "id": "apple/swift-log" } },
         "swift-numerics": {
@@ -104,7 +104,7 @@
         "swift-llvm-bindings": {
             "remote": { "id": "swiftlang/swift-llvm-bindings" } },
         "llvm-project": {
-            "remote": { "id": "swiftlang/llvm-project" } },
+            "remote": { "id": "ian-twilightcoder/llvm-project" } },
         "wasi-libc": {
             "remote": { "id": "WebAssembly/wasi-libc" } },
         "wasmkit": {
